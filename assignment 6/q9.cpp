@@ -11,7 +11,7 @@
 
 #include <iostream>
 using namespace std;
-int main(int argc, char const *argv[])
+int main()
 {
     int n = 4;
     // 1st pyramid
